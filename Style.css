@@ -1,0 +1,403 @@
+/*Heading template*/
+.NewsPaper{
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
+.heading{
+    font-size: 70px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.Publication{
+    background-color: rgb(18, 214, 228);
+    color: white;
+}
+.Publishrelative{
+    position: relative;
+    left: 50px;
+    width: 730px;
+    background-color:  rgb(18, 214, 228);
+}
+.issueabsolute{
+    position: absolute;
+    top: 0px;
+    left: 150px;
+    background-color: rgb(18, 214, 228);
+}
+.Linkabsolute{
+    position: absolute;
+    top: 0px;
+    left: 275px;
+    background-color: rgb(18, 214, 228);
+}
+
+.costabsolute{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: rgb(18, 214, 228);
+}
+/* Box template for box 1*/
+.Num{
+    color:rgb(244, 244, 248);
+    font-size: 23px;
+    text-align: center;
+}
+.box{
+    position: relative;
+    width: 160px;
+    height: 160px;
+   
+    background-color: rgb(176, 176, 234);
+}
+.Leftcol{
+    width: 40px;
+    height: 15 px;
+}
+.Leftheading{
+    position: absolute;
+    left:-20px;
+    padding-bottom: 0px;
+    text-align: center; 
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+}
+.Image{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    height: 50px;
+    width: 110px;
+} 
+.card-title{
+    position: absolute;
+    right: 0px;
+    left: 50px ;
+    font: weight 20px;;
+}
+/* Upper Page*/
+/* Midpage */ 
+.Midpage{
+    position:absolute;
+    top: 140px;
+    left: 180px;
+    height: 343px;
+    width: 300px;
+    border: 1px solid black;
+    background-color: rgb(249, 229, 204);
+}
+
+.Washington1{
+    align-items: inherit;
+    width: 135px;
+    height: 260px;
+    position: absolute;
+    top:80px;
+    left: 5px;
+    text-align: justify;
+    text-justify: inter-word;
+    
+}
+.Washington2{
+    align-items: inherit;
+    width: 135px;
+    height: 260px;
+    position: absolute;
+    top:80px;
+    left: 160px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+/* Rightcornrpage*/
+.UpperRightcornerpage{
+        position:absolute;
+        top: 140px;
+        right: 12px;
+        height: 343px;
+        width: 310px;
+        text-align: justify;
+        text-justify: inter-word;
+}
+.UpperRightcornerpage1{
+    position:absolute;
+    top: 0px;
+    right: 160px;
+    height: 343px;
+    width: 140px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.UpperRightcornerpage2{
+    position:absolute;
+    top: 0px;
+    right: 2px;
+    height: 343px;
+    width: 140px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+/* Box template for box2 */
+.Num1{
+    color:rgb(244, 244, 248);
+    font-size: 23px;
+    text-align: center;
+}
+.box1{
+    position: relative;
+    width: 160px;
+    height: 160px;
+    background-color: rgb(176, 176, 234);
+}
+.Leftcol1{
+    width: 40px;
+    height: 15px;
+}
+.Leftheading1{
+    position: absolute;
+   
+    margin-left: 5px;
+    padding-top:10px;
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+}
+.Image1{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    height:50px;
+    width: 110px;
+} 
+.card-title1{
+    position: absolute;
+    right: 0px;
+    left: 50px ;
+    top: 80px;
+}
+/* Box template for box 3*/
+.Num2{
+    color:rgb(244, 244, 248);
+    font-size: 23px;
+    text-align: center;
+}
+.box2{
+    position: relative;
+    width: 160px;
+    height: 160px;
+    background-color: rgb(176, 176, 234);
+}
+.Leftcol2{
+    width: 40px;
+    height: 15px;
+}
+.Leftheading2{
+    position: absolute;
+   
+    margin-left: 5px;
+    padding-top:10px;
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+}
+.Image2{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    width: 110px;
+} 
+.card-title2{
+    position: absolute;
+    right: 0px;
+    left: 50px ;
+    top: 80px;
+}
+.Midheading{
+    position: absolute;
+    top: 500px;
+    left: 180px;
+    width: 620px;
+    height: 160px;
+    font-size: 55px;
+    text-align: center;
+}
+.Midheading2{
+    position: absolute;
+    top:685px;
+    left: 205px;
+   font-size: 21px;
+   text-align: center;
+}
+/* Box template for box 4*/
+.Num3{
+    color:rgb(244, 244, 248);
+    font-size: 25px;
+    text-align: center;
+}
+.box3{
+    position: relative;
+    width: 160px;
+    height: 160px;
+    background-color: rgb(176, 176, 234);
+}
+.Leftcol3{
+    width: 40px;
+    height: 15px;
+}
+.Leftheading3{
+    position: absolute;
+   
+    margin-left: 5px;
+    padding-top:10px;
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+}
+.Image3{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    width: 110px;
+} 
+.card-title3{
+    position: absolute;
+    right: 0px;
+    left: 50px ;
+    top: 80px;
+}
+.Bottompage1{
+    position:absolute;
+    top: 725px;
+    left: 182px;
+    height: 343px;
+    width: 142px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.Donaldimage{
+    position:absolute;
+    top: 725px;
+    left: 340px;
+    height: 300px;
+    width: 390px;
+}
+.Bottompage2{
+    position:absolute;
+    top: 1040px;
+    left: 340px;
+    height: 275px;
+    width: 142px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.Bottompage3{
+    position:absolute;
+    top: 1040px;
+    left: 497px;
+    height: 275px;
+    width: 142px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.Bottompage4{
+ position:absolute;
+    top: 1040px;
+    left: 650px;
+    height: 275px;
+    width: 142px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.Bottompage5{
+     position:absolute;
+    top: 725px;
+    left: 740px;
+    height: 300px;
+    width: 50px;
+}
+/* Box template for box 5*/
+.Num4{
+    color:rgb(244, 244, 248);
+    font-size: 23px;
+    text-align: center;
+}
+.box4{
+    position: relative;
+    width: 160px;
+    height: 160px;
+    background-color: rgb(176, 176, 234);
+}
+.Leftcol4{
+    width: 40px;
+    height: 15px;
+}
+.Leftheading4{
+    position: absolute;
+    margin-left: 5px;
+    padding-top:5px;
+    align-content: center;
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+}
+.Image4{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    width: 110px;
+} 
+.card-title4{
+    position: absolute;
+    right: 0px;
+    left: 50px ;
+    top: 80px;
+}
+/* Box template for box 6*/
+.Num5{
+    color:rgb(244, 244, 248);
+    font-size: 23px;
+    text-align: center;
+}
+.box5{
+    position: relative;
+    width: 160px;
+    height: 160px;
+    background-color: rgb(176, 176, 234);
+}
+.Leftcol5{
+    width: 40px;
+    height: 15px;
+}
+.Leftheading5{
+    position: absolute;
+    margin-left: 5px;
+    padding-top:5px;
+    align-content: center;
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+}
+.Image5{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    width: 110px;
+} 
+.card-title5{
+    position: absolute;
+    right: 0px;
+    left: 50px ;
+    top: 80px;
+}
+.Barcode{
+    height: 65px;
+    width: 160px;
+    margin-bottom: 50px;
+}
+/* Media Query */
+@media screen and (max-width: 480px) {
+    body {
+      font-size: 24px;
+    }
+  }
+  
+  @media screen and (min-width: 990px) {
+    body {
+      font-size: 40px;
+    }
+  }
